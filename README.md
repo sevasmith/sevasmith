@@ -1,20 +1,11 @@
-## Hi there 👋
-
 Hi, I'm Seva 👋
 
-I’m a frontend developer with a focus on clean and minimalistic design. I enjoy solving problems with code, and I’m always inspired by the intersection of art and technology. I love when people have personal websites with a good and professional design, and I enjoy creative design that’s unusual, easy to read, and pleasant to look at.
+I’m a frontend developer focused on creating clean and minimalistic designs, inspired by the intersection of art and technology. I appreciate personal websites with good and professional design, and gravitate towards creative and unique designs that are easy to read and pleasant to look at.
 
-<!--
-**Seva-XIV/Seva-XIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack: HTML, CSS, JavaScript, React | Currently learning Git
 
-Here are some ideas to get you started:
+🚀 Projects: I'm building my portfolio to showcase my work and skills. Stay tuned for more projects soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 Fun Fact: I love playing chess and challenge my brother every week!
+
+📬 How to Reach Me: seva.kavalenka@gmail.com
