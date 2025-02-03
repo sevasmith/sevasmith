@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hi, I'm Seva 👋
+
+I’m a frontend developer with a focus on clean and minimalistic design. I enjoy solving problems with code, and I’m always inspired by the intersection of art and technology. I love when people have personal websites with a good and professional design, and I enjoy creative design that’s unusual, easy to read, and pleasant to look at.
+
 <!--
 **Seva-XIV/Seva-XIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
