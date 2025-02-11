@@ -1,11 +1,11 @@
 Hi, I'm Seva 👋
 
-I’m a frontend developer focused on creating clean and minimalistic designs, inspired by the intersection of art and technology. I appreciate personal websites with good, professional aesthetics and gravitate towards creative, unique layouts that are easy to read and pleasant to look at.
+With a deep appreciation for suprematism and avant-garde art and a passion for mathematical problem-solving, I discovered a fascinating intersection of creativity and logic in frontend development. After completing a React course, I became captivated by its potential and have since been honing my skills to build unique, professional, aesthetically refined layouts that are easy to read and pleasant to look at.
 
-💻 Tech Stack: HTML, CSS, JavaScript, React | Currently learning Git
+I'm actively seeking a frontend developer role, ideally in a startup environment where I can contribute meaningfully and grow alongside a tight-knit team. If you're hiring, I'd love to connect!
 
-🚀 Projects: I'm building my portfolio to showcase my work and skills. Stay tuned for more projects soon!
+💻 Tech Stack: HTML, CSS, JavaScript, React
 
-🎮 Fun Fact: I love playing chess and challenge my brother every week!
+🚀 Projects: Currently building my portfolio to showcase my work
 
-📬 How to Reach Me: seva.kavalenka@gmail.com
+📬 Let's connect: seva.kavalenka@gmail.com
