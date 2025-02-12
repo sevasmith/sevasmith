@@ -1,6 +1,6 @@
 Hi, I'm Seva 👋
 
-With a deep appreciation for suprematism and avant-garde art and a passion for mathematical problem-solving, I discovered a fascinating intersection of creativity and logic in frontend development. After completing a React course, I became captivated by its potential and have since been honing my skills to build unique, professional, aesthetically refined layouts that are easy to read and pleasant to look at.
+With a love for suprematism, avant-garde art, and mathematical problem-solving, I found the perfect blend of logic and creativity in frontend development. After completing a React course, I became captivated by building clean, aesthetically refined, and user-friendly interfaces.
 
 I'm actively seeking a frontend developer role, ideally in a startup environment where I can contribute meaningfully and grow alongside a tight-knit team. If you're hiring, I'd love to connect!
 
